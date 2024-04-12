@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(168, 227, 255);
+}
+
+h1{
+    margin-left:440px;
+    margin-top: 250px;
+    font-family: 'Montserrat';font-size: 40px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.Img{
+    margin-left: 650px;
+}
