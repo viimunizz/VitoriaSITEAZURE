@@ -3,12 +3,26 @@ body{
 }
 
 h1{
-    margin-left:440px;
-    margin-top: 250px;
+    margin-left:420px;
+    margin-top: 200px;
     font-family: 'Montserrat';font-size: 40px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .Img{
     margin-left: 650px;
+}
+
+#formulario {
+    margin-left:610px;
+    margin-top: 50px;
+    font-family: 'Montserrat';font-size: 15px;
+
+}
+
+#nomeUsuario{
+    margin-left:610px;
+    margin-top: 10px;
+    font-family: 'Montserrat';font-size: 15px;
+
 }
